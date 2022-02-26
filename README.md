@@ -1,4 +1,6 @@
 # ชัยวิทย์ พลเคน
+_Mahanakorn University of Technology Alumni_
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepinbubblegum)](https://github.com/anuraghazra/github-readme-stats)
 
 
