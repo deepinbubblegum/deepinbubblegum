@@ -46,7 +46,7 @@ I am a passionate developer with over **6 years of experience** bridging the gap
 
 ---
 
-## 🏆 Honours & Awards
+## 🏆 Awards
 
 * **2025:** RoboloT 2025 Project Scholarship Award (Software Park Thailand x NSTDA)
 * **2024:** Jump Start 2025 Project Scholarship Award (Software Park Thailand x NSTDA)
